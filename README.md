@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEO%20Profile&fontSize=60" />
-  </div>
+    <img src="https://capsule-render.vercel.app/api?type=https://camo.githubusercontent.com/49d49a7cf95bebd1fc5696726af41980d36254b8161c09d16982866f29eb14b7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d76656e6f6d266865696768743d32303026746578743d49253230616d25323056656e6f6d2e26666f6e7453697a653d373026636f6c6f723d303a3838373165352c3130303a623637386334267374726f6b653d623637386334&color=auto&height=300&section=header&text=SEO%20Profile&fontSize=60" />    
+</div>
   
   <!--내용 부분-->
   <h3 align="center">✨ Tech Stack ✨</h3>
